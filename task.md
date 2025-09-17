@@ -96,7 +96,7 @@ This assignment evaluates your ability to **analyze software systems, document a
     - Performance details (CPU, memory usage).
 
 
-4. **AI Tool Usage**
+4. ### AI Tool Usage
    - For repo analysis, you must use the following **prompt** (in any AI tool of your choice):
 
      ```
@@ -107,10 +107,10 @@ This assignment evaluates your ability to **analyze software systems, document a
      - Runtime Behavior: Describe how the application initializes, handles requests and responses, runs business workflows, and manages errors or background tasks.
      ```
 
-5. **Submission** 
+5. ### Submission 
    - Upload your code all your architecture diagrams as `".md"` in GitHub .  
 
-6. **Evaluation Criteria**
+6. ## Evaluation Criteria
    - Clarity and completeness of documentation.  
    - Accuracy in describing architectures, flows, and behaviors.  
    - Effective use of diagrams to explain complex concepts.  
@@ -120,3 +120,4 @@ This assignment evaluates your ability to **analyze software systems, document a
 
 
 ---
+
