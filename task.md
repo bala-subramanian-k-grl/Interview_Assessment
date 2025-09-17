@@ -13,10 +13,11 @@ This assignment evaluates your ability to **analyze software systems, document a
    - Include **architecture diagrams** (Mermaid) to explain flows and components.
 
 2. **Repositories**
-   - Zephyr RTOS: [https://github.com/zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)  
-   - Attendance Repository: [https://github.com/bala-subramanian-engineer/Face-Recognition-System/tree/main](https://github.com/bala-subramanian-engineer/Face-Recognition-System/tree/main)
-
+   - Zephyr RTOS: [https://github.com/zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
+     
    - Motion Detection (smolVLM): [https://github.com/ngxson/smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam)
+  
+   - Attendance Repository: [https://github.com/bala-subramanian-engineer/Face-Recognition-System/tree/main](https://github.com/bala-subramanian-engineer/Face-Recognition-System/tree/main)
 
 3. **Tasks**
    ### Task 1 – Zephyr RTOS
@@ -120,5 +121,6 @@ This assignment evaluates your ability to **analyze software systems, document a
 
 
 ---
+
 
 
